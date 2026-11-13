@@ -1,1 +1,1 @@
-fixture
+/proc/self/environ
